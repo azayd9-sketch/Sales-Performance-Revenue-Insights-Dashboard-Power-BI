@@ -1,0 +1,61 @@
+Product_ID,Product_Name,Category,Unit_Price,Unit_Cost
+PROD001,Power Bank 500,Mobile,536800,344100
+PROD002,Tablet Max,Mobile,344400,273600
+PROD003,Notebook 500,Office Supplies,6900,5200
+PROD004,Tablet 500,Mobile,560000,348100
+PROD005,Keyboard Max,Electronics,444900,322200
+PROD006,Flash Drive X,Accessories,17200,12200
+PROD007,Backpack Pro,Accessories,25700,16900
+PROD008,Desk 200,Furniture,284900,184900
+PROD009,Pen 500,Office Supplies,9600,6200
+PROD010,Paper X,Office Supplies,41400,29700
+PROD011,Notebook Plus,Office Supplies,20000,13400
+PROD012,Backpack X,Accessories,9700,7500
+PROD013,Pen Max,Office Supplies,37000,27000
+PROD014,Charger 200,Mobile,249000,141700
+PROD015,Stapler 200,Office Supplies,24400,17600
+PROD016,Desk Organizer Pro,Office Supplies,6400,4000
+PROD017,Flash Drive Max,Accessories,3200,2300
+PROD018,Notebook Plus,Office Supplies,29300,21500
+PROD019,Desk Max,Furniture,197300,120800
+PROD020,Stapler Pro,Office Supplies,27300,18400
+PROD021,Notebook 200,Office Supplies,36000,21600
+PROD022,Filing Cabinet Pro,Furniture,238700,134700
+PROD023,Smartphone Pro,Mobile,121900,79500
+PROD024,Bookshelf Max,Furniture,148600,96300
+PROD025,Flash Drive Pro,Accessories,72800,59600
+PROD026,Pen Plus,Office Supplies,35000,23500
+PROD027,Notebook Pro,Office Supplies,25700,16400
+PROD028,Laptop 500,Electronics,159200,112500
+PROD029,Headset 500,Electronics,183600,105400
+PROD030,Keyboard 200,Electronics,409300,331400
+PROD031,Desk Organizer Max,Office Supplies,38500,27800
+PROD032,Power Bank Max,Mobile,439700,331400
+PROD033,Stapler 500,Office Supplies,36700,21900
+PROD034,Keyboard 500,Electronics,427500,282400
+PROD035,Office Chair Max,Furniture,82200,54600
+PROD036,Headset Pro,Electronics,247600,191100
+PROD037,Tablet 500,Mobile,107900,59400
+PROD038,Filing Cabinet 500,Furniture,109100,68900
+PROD039,Laptop Pro,Electronics,481400,392300
+PROD040,Keyboard 200,Electronics,273300,185400
+PROD041,Paper X,Office Supplies,24800,16200
+PROD042,Stapler Max,Office Supplies,9300,5400
+PROD043,Keyboard 500,Electronics,188900,153600
+PROD044,Stapler Max,Office Supplies,11500,6400
+PROD045,Charger 500,Mobile,142000,106400
+PROD046,Notebook 200,Office Supplies,29300,22200
+PROD047,USB Cable 500,Accessories,22800,14000
+PROD048,Phone Case X,Mobile,414500,303100
+PROD049,Pen X,Office Supplies,4000,2300
+PROD050,Office Chair 500,Furniture,79700,49400
+PROD051,Bookshelf 500,Furniture,121500,92700
+PROD052,Smartphone 200,Mobile,392100,307200
+PROD053,Bookshelf 200,Furniture,247900,177100
+PROD054,Flash Drive Max,Accessories,37100,25500
+PROD055,Desk Max,Furniture,175400,104000
+PROD056,HDMI Cable 500,Accessories,58800,33300
+PROD057,Power Bank 500,Mobile,20100,11700
+PROD058,Power Bank Plus,Mobile,228300,139600
+PROD059,Tablet Plus,Mobile,534000,343000
+PROD060,Headset 200,Electronics,341700,223100

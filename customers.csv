@@ -1,0 +1,301 @@
+Customer_ID,Customer_Name,Gender,Age,City,Customer_Segment,Join_Date
+CUST0001,Grace Ibrahim,Male,50,Lagos,Consumer,11/2/2022
+CUST0002,Hauwa Usman,Male,25,Benin City,Consumer,7/17/2025
+CUST0003,Samuel Adeyemi,Male,53,Benin City,Small Business,12/5/2023
+CUST0004,Grace Johnson,Male,21,Abuja,Consumer,11/18/2023
+CUST0005,Fatima Olawale,Female,38,Port Harcourt,Consumer,10/12/2022
+CUST0006,Blessing Usman,Male,52,Kano,Consumer,12/17/2023
+CUST0007,Samuel Adeyemi,Male,31,Kaduna,Consumer,2/2/2024
+CUST0008,Daniel Eze,Male,41,Kaduna,Consumer,6/4/2025
+CUST0009,Samuel Williams,Female,46,Ibadan,Corporate,8/5/2024
+CUST0010,Ibrahim Adeyemi,Female,45,Benin City,Consumer,1/16/2023
+CUST0011,David Eze,Male,42,Ibadan,Small Business,4/5/2023
+CUST0012,Michael Mohammed,Female,47,Port Harcourt,Small Business,10/27/2024
+CUST0013,David Adeleke,Male,33,Port Harcourt,Consumer,1/29/2022
+CUST0014,Mary Abdullahi,Male,53,Ibadan,Consumer,6/25/2024
+CUST0015,Michael Johnson,Female,54,Benin City,Consumer,11/22/2024
+CUST0016,Ibrahim Adeleke,Male,55,Ibadan,Corporate,5/28/2024
+CUST0017,Esther Abdullahi,Female,21,Kaduna,Consumer,3/20/2022
+CUST0018,Blessing Usman,Female,41,Abuja,Corporate,8/4/2024
+CUST0019,Chioma Johnson,Male,26,Kaduna,Consumer,4/4/2023
+CUST0020,Michael Adeleke,Male,48,Ilorin,Corporate,7/24/2023
+CUST0021,Chioma Williams,Female,37,Benin City,Consumer,12/24/2025
+CUST0022,Michael Olawale,Male,25,Benin City,Consumer,1/8/2024
+CUST0023,Daniel Bello,Male,51,Kano,Small Business,8/1/2025
+CUST0024,Fatima Adeyemi,Male,25,Lagos,Corporate,5/31/2023
+CUST0025,Fatima Olawale,Female,58,Ilorin,Consumer,1/27/2025
+CUST0026,Mary Bello,Female,23,Port Harcourt,Small Business,2/1/2023
+CUST0027,Grace Okafor,Male,43,Benin City,Consumer,2/8/2022
+CUST0028,Daniel Bello,Female,57,Ibadan,Small Business,7/18/2025
+CUST0029,Michael Okafor,Female,57,Ilorin,Corporate,6/5/2024
+CUST0030,Yusuf Bello,Female,30,Kano,Consumer,3/7/2024
+CUST0031,Yusuf Adeyemi,Female,30,Port Harcourt,Consumer,6/6/2022
+CUST0032,David Ibrahim,Female,39,Lagos,Consumer,1/3/2025
+CUST0033,Michael Adeleke,Male,37,Lagos,Consumer,6/2/2024
+CUST0034,Grace Adeleke,Male,41,Kano,Corporate,2/27/2025
+CUST0035,Hauwa Eze,Male,34,Kano,Consumer,8/31/2024
+CUST0036,Chioma Williams,Female,29,Ibadan,Consumer,1/12/2025
+CUST0037,John Abdullahi,Female,21,Benin City,Small Business,11/11/2024
+CUST0038,Daniel Okafor,Male,33,Lagos,Small Business,4/28/2024
+CUST0039,Samuel Ibrahim,Female,24,Port Harcourt,Consumer,11/6/2025
+CUST0040,David Mohammed,Male,21,Ilorin,Consumer,1/18/2024
+CUST0041,Ibrahim Johnson,Male,60,Port Harcourt,Consumer,9/15/2024
+CUST0042,Daniel Mohammed,Male,52,Abuja,Consumer,1/21/2022
+CUST0043,Hauwa Okafor,Female,54,Abuja,Small Business,10/30/2022
+CUST0044,Yusuf Adeleke,Female,48,Kano,Consumer,5/18/2024
+CUST0045,David Johnson,Male,51,Ibadan,Corporate,3/25/2022
+CUST0046,John Ibrahim,Male,28,Abuja,Consumer,11/11/2025
+CUST0047,John Eze,Male,59,Lagos,Corporate,7/4/2025
+CUST0048,John Olawale,Male,46,Port Harcourt,Corporate,7/24/2023
+CUST0049,Michael Bello,Female,54,Port Harcourt,Small Business,7/22/2024
+CUST0050,John Eze,Female,23,Kano,Consumer,3/31/2025
+CUST0051,Mary Okafor,Male,32,Benin City,Consumer,4/1/2025
+CUST0052,Chioma Adeyemi,Male,21,Benin City,Consumer,10/5/2024
+CUST0053,Samuel Johnson,Female,25,Ilorin,Small Business,3/3/2024
+CUST0054,Esther Adeleke,Female,50,Kano,Small Business,3/2/2024
+CUST0055,Michael Adeleke,Male,50,Kaduna,Corporate,7/18/2025
+CUST0056,Hauwa Bello,Male,37,Ilorin,Corporate,5/7/2023
+CUST0057,Hauwa Abdullahi,Male,43,Kaduna,Corporate,7/27/2022
+CUST0058,Esther Olawale,Female,35,Benin City,Consumer,12/19/2024
+CUST0059,Esther Eze,Female,57,Kano,Small Business,3/6/2023
+CUST0060,Aisha Adeleke,Female,41,Kaduna,Consumer,9/11/2024
+CUST0061,Samuel Eze,Male,34,Kano,Consumer,8/25/2025
+CUST0062,Chioma Usman,Male,22,Kano,Consumer,6/4/2023
+CUST0063,Fatima Abdullahi,Female,31,Benin City,Consumer,8/14/2023
+CUST0064,Samuel Williams,Female,59,Ilorin,Consumer,11/16/2024
+CUST0065,Fatima Abdullahi,Male,58,Ilorin,Corporate,7/18/2022
+CUST0066,Blessing Adeyemi,Female,54,Kano,Consumer,1/22/2023
+CUST0067,Yusuf Olawale,Female,58,Abuja,Corporate,12/15/2022
+CUST0068,Yusuf Bello,Male,54,Ibadan,Consumer,8/17/2024
+CUST0069,Michael Olawale,Female,38,Benin City,Consumer,11/24/2023
+CUST0070,Esther Eze,Male,50,Ibadan,Consumer,1/13/2023
+CUST0071,Michael Okafor,Male,35,Ibadan,Consumer,6/17/2024
+CUST0072,Aisha Olawale,Male,47,Ilorin,Corporate,7/4/2024
+CUST0073,Grace Eze,Male,54,Ilorin,Consumer,6/11/2023
+CUST0074,Mary Williams,Male,58,Abuja,Corporate,3/22/2025
+CUST0075,Michael Eze,Male,53,Ibadan,Consumer,1/4/2024
+CUST0076,Ibrahim Usman,Male,44,Ibadan,Corporate,7/25/2022
+CUST0077,Fatima Abdullahi,Female,35,Kano,Small Business,3/31/2023
+CUST0078,Fatima Adeyemi,Male,50,Ilorin,Corporate,7/20/2025
+CUST0079,Chioma Williams,Male,37,Ibadan,Consumer,6/13/2025
+CUST0080,Aisha Adeyemi,Female,25,Port Harcourt,Consumer,6/5/2023
+CUST0081,Yusuf Olawale,Female,49,Abuja,Consumer,10/13/2024
+CUST0082,Chioma Olawale,Female,24,Kaduna,Corporate,8/13/2024
+CUST0083,Blessing Bello,Male,30,Port Harcourt,Consumer,12/27/2023
+CUST0084,Chioma Johnson,Female,37,Port Harcourt,Consumer,10/10/2024
+CUST0085,Yusuf Adeleke,Male,30,Kaduna,Corporate,5/16/2023
+CUST0086,Hauwa Williams,Male,37,Benin City,Consumer,4/27/2022
+CUST0087,Chioma Olawale,Male,40,Benin City,Corporate,1/21/2023
+CUST0088,Aisha Ibrahim,Male,44,Abuja,Consumer,9/29/2025
+CUST0089,Hauwa Ibrahim,Female,25,Port Harcourt,Consumer,8/7/2023
+CUST0090,John Adeyemi,Female,54,Ibadan,Corporate,1/30/2023
+CUST0091,Grace Olawale,Male,26,Ilorin,Consumer,12/23/2024
+CUST0092,Hauwa Usman,Male,22,Abuja,Corporate,12/22/2023
+CUST0093,Hauwa Ibrahim,Male,33,Kano,Consumer,3/13/2022
+CUST0094,Hauwa Olawale,Female,31,Kaduna,Consumer,10/1/2022
+CUST0095,Blessing Williams,Male,43,Port Harcourt,Small Business,9/5/2025
+CUST0096,Ibrahim Adeleke,Male,36,Abuja,Corporate,12/4/2022
+CUST0097,David Johnson,Female,51,Lagos,Corporate,10/21/2025
+CUST0098,Hauwa Bello,Female,31,Lagos,Consumer,8/30/2023
+CUST0099,Mary Mohammed,Male,36,Benin City,Corporate,6/15/2022
+CUST0100,Michael Adeleke,Female,28,Kaduna,Consumer,1/11/2022
+CUST0101,Michael Adeleke,Female,24,Ilorin,Consumer,8/17/2025
+CUST0102,Daniel Usman,Male,60,Ibadan,Small Business,12/30/2023
+CUST0103,Yusuf Olawale,Female,24,Ilorin,Consumer,3/11/2024
+CUST0104,Michael Bello,Male,45,Ilorin,Small Business,4/12/2022
+CUST0105,Grace Abdullahi,Female,23,Ilorin,Consumer,12/19/2025
+CUST0106,Aisha Bello,Male,52,Kaduna,Consumer,11/16/2025
+CUST0107,Blessing Bello,Male,23,Ilorin,Consumer,2/18/2024
+CUST0108,Daniel Bello,Male,47,Kano,Small Business,8/2/2022
+CUST0109,Fatima Olawale,Female,49,Kaduna,Corporate,1/16/2025
+CUST0110,Ibrahim Eze,Male,52,Kano,Small Business,2/5/2023
+CUST0111,Blessing Bello,Female,39,Kaduna,Corporate,8/11/2023
+CUST0112,John Adeyemi,Male,41,Benin City,Corporate,6/7/2024
+CUST0113,Aisha Williams,Male,25,Abuja,Small Business,12/5/2024
+CUST0114,Yusuf Adeleke,Female,38,Lagos,Consumer,8/15/2023
+CUST0115,Samuel Usman,Male,48,Ilorin,Consumer,8/26/2025
+CUST0116,Ibrahim Eze,Male,42,Benin City,Consumer,1/14/2025
+CUST0117,Esther Ibrahim,Female,41,Abuja,Small Business,4/2/2022
+CUST0118,Aisha Abdullahi,Male,26,Lagos,Small Business,11/4/2023
+CUST0119,Yusuf Ibrahim,Male,21,Port Harcourt,Consumer,12/15/2023
+CUST0120,Michael Olawale,Male,25,Ibadan,Corporate,7/24/2024
+CUST0121,David Williams,Male,32,Kano,Small Business,8/30/2022
+CUST0122,Aisha Adeyemi,Female,46,Port Harcourt,Consumer,1/2/2022
+CUST0123,Aisha Eze,Female,54,Kaduna,Corporate,8/13/2022
+CUST0124,Aisha Usman,Male,34,Lagos,Small Business,3/11/2024
+CUST0125,Aisha Okafor,Female,46,Port Harcourt,Consumer,8/12/2023
+CUST0126,David Adeleke,Male,47,Ibadan,Corporate,4/26/2022
+CUST0127,Ibrahim Olawale,Female,29,Benin City,Consumer,7/6/2024
+CUST0128,Mary Abdullahi,Male,46,Lagos,Small Business,1/31/2025
+CUST0129,Aisha Williams,Male,42,Port Harcourt,Small Business,7/13/2022
+CUST0130,John Okafor,Male,50,Kano,Small Business,4/4/2025
+CUST0131,Mary Adeleke,Male,37,Kano,Consumer,5/20/2024
+CUST0132,Yusuf Mohammed,Male,46,Abuja,Small Business,3/31/2022
+CUST0133,Grace Ibrahim,Male,56,Port Harcourt,Small Business,5/2/2022
+CUST0134,Grace Usman,Female,21,Ilorin,Consumer,5/23/2022
+CUST0135,Samuel Usman,Male,28,Port Harcourt,Small Business,9/20/2024
+CUST0136,Aisha Mohammed,Female,55,Benin City,Consumer,4/16/2022
+CUST0137,Samuel Adeyemi,Male,35,Lagos,Corporate,6/5/2024
+CUST0138,Daniel Okafor,Female,42,Lagos,Consumer,3/4/2023
+CUST0139,Ibrahim Mohammed,Female,34,Benin City,Consumer,8/21/2025
+CUST0140,Blessing Abdullahi,Female,46,Port Harcourt,Consumer,11/13/2022
+CUST0141,Esther Adeleke,Male,48,Benin City,Corporate,9/27/2023
+CUST0142,Blessing Mohammed,Male,43,Ibadan,Consumer,1/9/2022
+CUST0143,Hauwa Williams,Female,34,Kaduna,Corporate,2/13/2024
+CUST0144,Daniel Adeleke,Male,44,Benin City,Consumer,1/1/2025
+CUST0145,Blessing Ibrahim,Female,22,Kano,Consumer,10/14/2025
+CUST0146,Fatima Johnson,Male,46,Benin City,Consumer,8/11/2022
+CUST0147,Fatima Williams,Female,34,Lagos,Corporate,12/10/2025
+CUST0148,Daniel Olawale,Female,27,Kano,Consumer,7/7/2023
+CUST0149,Daniel Bello,Male,23,Lagos,Corporate,10/25/2025
+CUST0150,Aisha Eze,Female,43,Abuja,Small Business,12/17/2023
+CUST0151,Grace Okafor,Male,38,Ilorin,Corporate,7/11/2025
+CUST0152,Samuel Abdullahi,Female,58,Lagos,Consumer,9/3/2025
+CUST0153,Blessing Adeleke,Female,55,Kano,Consumer,1/12/2025
+CUST0154,Esther Bello,Male,35,Abuja,Small Business,9/3/2025
+CUST0155,David Olawale,Male,45,Lagos,Consumer,4/21/2022
+CUST0156,Chioma Johnson,Male,57,Ibadan,Small Business,9/8/2022
+CUST0157,Fatima Olawale,Female,48,Benin City,Consumer,1/18/2023
+CUST0158,Michael Johnson,Male,30,Ilorin,Small Business,1/7/2022
+CUST0159,Esther Ibrahim,Female,59,Lagos,Corporate,4/4/2023
+CUST0160,Michael Abdullahi,Female,37,Abuja,Small Business,1/12/2025
+CUST0161,David Abdullahi,Male,59,Ibadan,Consumer,7/27/2022
+CUST0162,John Adeleke,Male,42,Port Harcourt,Corporate,6/18/2024
+CUST0163,Mary Adeyemi,Female,46,Abuja,Consumer,11/14/2025
+CUST0164,Blessing Olawale,Female,45,Benin City,Consumer,8/30/2025
+CUST0165,Esther Bello,Male,37,Abuja,Corporate,1/22/2022
+CUST0166,Fatima Williams,Male,33,Ibadan,Small Business,2/14/2023
+CUST0167,Fatima Ibrahim,Male,40,Abuja,Small Business,6/13/2024
+CUST0168,Samuel Mohammed,Male,45,Ibadan,Corporate,5/30/2023
+CUST0169,Samuel Abdullahi,Male,24,Lagos,Consumer,2/24/2025
+CUST0170,Samuel Ibrahim,Female,30,Kaduna,Consumer,3/19/2024
+CUST0171,Blessing Abdullahi,Female,23,Ibadan,Corporate,5/23/2024
+CUST0172,Samuel Ibrahim,Female,38,Ibadan,Consumer,1/14/2022
+CUST0173,Ibrahim Eze,Female,56,Ilorin,Consumer,8/28/2024
+CUST0174,Daniel Williams,Male,42,Ibadan,Consumer,9/4/2024
+CUST0175,John Bello,Male,54,Ibadan,Consumer,10/10/2024
+CUST0176,Fatima Bello,Male,28,Port Harcourt,Consumer,11/1/2024
+CUST0177,Hauwa Okafor,Female,60,Kaduna,Consumer,3/28/2022
+CUST0178,John Okafor,Female,39,Lagos,Consumer,6/27/2024
+CUST0179,David Mohammed,Male,57,Benin City,Consumer,8/17/2025
+CUST0180,Fatima Bello,Male,26,Ilorin,Small Business,6/20/2025
+CUST0181,Daniel Abdullahi,Female,46,Port Harcourt,Consumer,5/2/2022
+CUST0182,Daniel Abdullahi,Female,54,Kano,Consumer,3/16/2025
+CUST0183,John Adeyemi,Male,26,Kaduna,Corporate,1/20/2024
+CUST0184,Daniel Eze,Male,57,Lagos,Consumer,10/11/2025
+CUST0185,Samuel Olawale,Female,53,Lagos,Small Business,11/16/2023
+CUST0186,Fatima Abdullahi,Male,42,Kano,Corporate,11/5/2022
+CUST0187,Aisha Adeleke,Male,41,Benin City,Consumer,11/26/2023
+CUST0188,Blessing Williams,Male,26,Ibadan,Consumer,10/15/2022
+CUST0189,Ibrahim Olawale,Female,26,Port Harcourt,Small Business,11/3/2022
+CUST0190,Ibrahim Mohammed,Female,24,Abuja,Small Business,7/2/2024
+CUST0191,Ibrahim Williams,Female,50,Ilorin,Consumer,10/24/2023
+CUST0192,Ibrahim Eze,Female,31,Abuja,Corporate,7/3/2023
+CUST0193,Blessing Usman,Female,50,Kano,Consumer,10/7/2025
+CUST0194,David Adeyemi,Female,51,Lagos,Small Business,11/8/2022
+CUST0195,John Abdullahi,Female,44,Benin City,Consumer,5/22/2024
+CUST0196,Michael Abdullahi,Male,29,Lagos,Small Business,12/18/2024
+CUST0197,Mary Adeleke,Male,23,Ilorin,Corporate,7/12/2024
+CUST0198,Hauwa Williams,Male,51,Lagos,Corporate,1/25/2024
+CUST0199,Daniel Williams,Male,60,Lagos,Consumer,2/4/2022
+CUST0200,Aisha Abdullahi,Male,57,Ilorin,Consumer,3/21/2023
+CUST0201,Michael Adeleke,Male,56,Port Harcourt,Consumer,4/3/2022
+CUST0202,John Adeyemi,Male,44,Port Harcourt,Consumer,5/15/2025
+CUST0203,Ibrahim Williams,Female,51,Ilorin,Consumer,12/19/2022
+CUST0204,Michael Bello,Female,26,Benin City,Corporate,6/21/2024
+CUST0205,Mary Eze,Male,22,Kano,Consumer,9/17/2025
+CUST0206,Hauwa Abdullahi,Male,40,Kaduna,Consumer,5/11/2024
+CUST0207,John Adeyemi,Female,48,Lagos,Small Business,6/8/2022
+CUST0208,Chioma Williams,Male,31,Benin City,Small Business,8/14/2024
+CUST0209,Michael Abdullahi,Male,24,Lagos,Small Business,1/24/2022
+CUST0210,Daniel Adeyemi,Female,35,Kaduna,Small Business,2/8/2023
+CUST0211,Grace Abdullahi,Male,26,Kano,Consumer,3/15/2024
+CUST0212,Fatima Okafor,Female,50,Port Harcourt,Consumer,5/31/2023
+CUST0213,Esther Johnson,Male,58,Benin City,Corporate,1/2/2024
+CUST0214,Chioma Mohammed,Female,22,Ibadan,Corporate,10/19/2025
+CUST0215,Yusuf Williams,Female,35,Ibadan,Consumer,11/6/2025
+CUST0216,Samuel Eze,Female,31,Kaduna,Small Business,6/16/2023
+CUST0217,David Mohammed,Male,28,Ibadan,Consumer,8/13/2024
+CUST0218,Grace Okafor,Female,46,Port Harcourt,Consumer,6/1/2022
+CUST0219,Chioma Usman,Male,25,Kaduna,Consumer,8/4/2024
+CUST0220,Yusuf Okafor,Male,26,Port Harcourt,Corporate,8/31/2023
+CUST0221,Yusuf Abdullahi,Male,46,Kano,Corporate,2/24/2023
+CUST0222,Samuel Abdullahi,Male,24,Lagos,Consumer,6/27/2025
+CUST0223,Esther Usman,Female,39,Kano,Small Business,2/14/2025
+CUST0224,Ibrahim Olawale,Female,40,Kano,Consumer,5/15/2024
+CUST0225,Hauwa Johnson,Male,53,Port Harcourt,Consumer,8/1/2023
+CUST0226,Grace Johnson,Male,40,Kaduna,Small Business,12/1/2022
+CUST0227,Fatima Okafor,Female,32,Kaduna,Small Business,12/12/2025
+CUST0228,Esther Eze,Male,21,Ibadan,Small Business,7/20/2024
+CUST0229,Hauwa Adeleke,Female,46,Abuja,Small Business,10/22/2022
+CUST0230,Yusuf Olawale,Male,34,Lagos,Corporate,1/25/2024
+CUST0231,Esther Ibrahim,Male,58,Port Harcourt,Corporate,10/26/2025
+CUST0232,Hauwa Ibrahim,Female,57,Ibadan,Consumer,7/5/2022
+CUST0233,Aisha Eze,Male,31,Benin City,Consumer,6/23/2025
+CUST0234,John Adeleke,Female,56,Abuja,Consumer,9/29/2023
+CUST0235,Fatima Olawale,Male,33,Abuja,Consumer,7/15/2025
+CUST0236,Chioma Adeleke,Male,23,Port Harcourt,Corporate,6/14/2025
+CUST0237,David Okafor,Male,53,Ilorin,Consumer,6/14/2023
+CUST0238,Grace Mohammed,Female,26,Lagos,Consumer,1/21/2022
+CUST0239,Fatima Bello,Male,30,Abuja,Consumer,6/29/2024
+CUST0240,Yusuf Mohammed,Male,25,Port Harcourt,Corporate,5/16/2024
+CUST0241,Yusuf Johnson,Male,43,Port Harcourt,Consumer,3/4/2024
+CUST0242,Ibrahim Abdullahi,Male,30,Ibadan,Small Business,4/10/2022
+CUST0243,Daniel Johnson,Female,22,Benin City,Consumer,1/22/2024
+CUST0244,Ibrahim Mohammed,Female,33,Ilorin,Consumer,4/23/2023
+CUST0245,Blessing Adeleke,Male,60,Lagos,Corporate,8/14/2025
+CUST0246,Mary Abdullahi,Female,22,Kaduna,Small Business,7/28/2024
+CUST0247,Samuel Adeyemi,Male,40,Kano,Consumer,6/10/2023
+CUST0248,Michael Adeleke,Male,21,Benin City,Corporate,11/30/2022
+CUST0249,Michael Adeyemi,Male,57,Benin City,Corporate,1/2/2022
+CUST0250,Grace Ibrahim,Female,29,Ibadan,Consumer,1/10/2023
+CUST0251,Ibrahim Ibrahim,Female,37,Kaduna,Small Business,10/20/2022
+CUST0252,John Williams,Female,29,Abuja,Corporate,4/16/2024
+CUST0253,Grace Eze,Female,31,Abuja,Corporate,10/1/2024
+CUST0254,Daniel Okafor,Female,35,Ibadan,Small Business,7/7/2023
+CUST0255,Michael Johnson,Female,44,Port Harcourt,Small Business,11/14/2022
+CUST0256,John Williams,Female,58,Abuja,Corporate,1/16/2023
+CUST0257,Aisha Eze,Female,55,Ilorin,Small Business,1/14/2022
+CUST0258,Chioma Williams,Female,50,Lagos,Corporate,5/19/2023
+CUST0259,Michael Johnson,Male,51,Benin City,Corporate,8/19/2022
+CUST0260,Grace Johnson,Female,25,Benin City,Corporate,1/12/2025
+CUST0261,Mary Johnson,Female,34,Ilorin,Corporate,5/10/2022
+CUST0262,Mary Olawale,Female,31,Kaduna,Consumer,4/17/2024
+CUST0263,Chioma Bello,Female,29,Abuja,Small Business,3/14/2025
+CUST0264,Michael Adeyemi,Female,54,Benin City,Small Business,6/9/2024
+CUST0265,Aisha Johnson,Female,32,Kano,Consumer,1/28/2022
+CUST0266,Yusuf Abdullahi,Female,55,Kaduna,Small Business,3/7/2022
+CUST0267,Chioma Okafor,Female,55,Lagos,Consumer,4/1/2025
+CUST0268,John Mohammed,Female,21,Lagos,Consumer,6/6/2025
+CUST0269,Esther Eze,Female,60,Benin City,Corporate,9/18/2022
+CUST0270,Hauwa Adeyemi,Female,42,Ibadan,Consumer,12/18/2025
+CUST0271,Aisha Olawale,Male,49,Kaduna,Small Business,4/5/2023
+CUST0272,Chioma Adeyemi,Male,28,Benin City,Small Business,10/28/2022
+CUST0273,Ibrahim Olawale,Female,31,Ibadan,Consumer,7/7/2024
+CUST0274,Fatima Adeleke,Female,57,Benin City,Consumer,8/19/2025
+CUST0275,Yusuf Williams,Male,34,Kano,Consumer,10/14/2022
+CUST0276,Mary Mohammed,Female,50,Kaduna,Corporate,11/19/2025
+CUST0277,Esther Adeleke,Male,55,Port Harcourt,Small Business,10/30/2024
+CUST0278,Mary Abdullahi,Male,41,Lagos,Corporate,9/22/2023
+CUST0279,John Ibrahim,Male,57,Benin City,Consumer,9/27/2022
+CUST0280,Mary Adeleke,Male,25,Kano,Corporate,8/15/2023
+CUST0281,Yusuf Johnson,Male,39,Ibadan,Consumer,4/23/2024
+CUST0282,Mary Olawale,Female,34,Ibadan,Corporate,5/11/2024
+CUST0283,Daniel Abdullahi,Male,46,Lagos,Consumer,10/16/2025
+CUST0284,John Adeyemi,Female,24,Ilorin,Corporate,7/4/2025
+CUST0285,Grace Johnson,Female,45,Benin City,Consumer,5/13/2022
+CUST0286,Yusuf Mohammed,Male,45,Kaduna,Small Business,7/23/2025
+CUST0287,Mary Ibrahim,Male,38,Abuja,Consumer,8/29/2024
+CUST0288,David Ibrahim,Female,60,Ibadan,Corporate,5/28/2023
+CUST0289,Chioma Johnson,Male,28,Kaduna,Small Business,11/9/2022
+CUST0290,Yusuf Williams,Male,59,Kaduna,Consumer,7/30/2023
+CUST0291,Yusuf Abdullahi,Female,60,Port Harcourt,Small Business,6/4/2024
+CUST0292,Samuel Adeyemi,Female,34,Kaduna,Corporate,7/31/2025
+CUST0293,Hauwa Ibrahim,Male,52,Kaduna,Consumer,2/18/2025
+CUST0294,Samuel Olawale,Female,58,Port Harcourt,Consumer,2/4/2025
+CUST0295,David Abdullahi,Male,53,Ibadan,Corporate,11/18/2023
+CUST0296,Michael Usman,Male,43,Kaduna,Consumer,5/12/2025
+CUST0297,Daniel Eze,Male,35,Ilorin,Corporate,6/14/2022
+CUST0298,Michael Okafor,Female,53,Ilorin,Consumer,11/1/2022
+CUST0299,Fatima Adeleke,Female,45,Kano,Corporate,6/5/2022
+CUST0300,Aisha Abdullahi,Female,37,Port Harcourt,Consumer,10/22/2025
